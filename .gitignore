@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Sensitive info (if you move passwords to an .env file later)
+.env
+
+# Local database files or logs
+*.log
+
